@@ -1,0 +1,34 @@
+{
+    "name": "AuxControls",
+    "maps": [
+        {
+            "name": "Keyboard",
+            "id": "9107252c-5554-462e-abb3-73d3cc612ee3",
+            "actions": [
+                {
+                    "name": "SpaceKey",
+                    "type": "Button",
+                    "id": "8d35786a-2de1-486d-82d8-2951f706a3e2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f48fed7f-3e52-4db8-ad16-1f01be606490",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpaceKey",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
